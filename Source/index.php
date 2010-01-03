@@ -21,7 +21,7 @@
 <div id="help">
 	<h3>Please help!</h3>
 	Please help me improve this dependency checker.
-	Go to <a href="http://code.google.com/p/awfmootools/source/browse/trunk/mooDeps/">Google Code</a> and
+	Go to <a href="http://github.com/arian/MooDeps">Github.com</a> and
 	improve the code, fill issues and spread the word!
 </div>
 
